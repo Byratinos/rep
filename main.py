@@ -1,5 +1,5 @@
 new_figher = 212;
 # test
-fsdfsd
-fsd
-FileNotFoundErrorf
+fsdfsd = 1 
+fsd =2 
+FileNotFoundErrorf =3 
