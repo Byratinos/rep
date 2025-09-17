@@ -1,1 +1,1 @@
-st = "slova"
+print('Hello')
